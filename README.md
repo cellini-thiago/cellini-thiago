@@ -1,4 +1,4 @@
-## Thiago Cellini 
+## Cellini 
 
 - 💻 Atualmente trabalho como SysAdmin 
 - 🌱 Atualmente estou aprendendo Devops
