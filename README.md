@@ -1,4 +1,4 @@
-- 💻 Atualmente trabalho como SysAdmin 
+- 💻 Atualmente trabalho com Devops
 
 <div>
   <a href="https://github.com/cellini-thiago">
